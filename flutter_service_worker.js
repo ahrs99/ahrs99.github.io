@@ -15,13 +15,13 @@ const RESOURCES = {
 "assets/AssetManifest.json": "02ef6621e9dd01eef6cd52307aaef322",
 "assets/FontManifest.json": "f09ddccc7bada3d4a36dbe19d19a9656",
 "assets/NOTICES": "ebcf01cd722b80184bf9a9c5a5821a70",
-"index.html": "522871780f28d68a8eaa999e4d0f8f8c",
-"/": "522871780f28d68a8eaa999e4d0f8f8c",
+"index.html": "57f6e00a8bb01699d6f61c569e9d787c",
+"/": "57f6e00a8bb01699d6f61c569e9d787c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "b4fc5553b4bc000692cd61be075e3a18",
+"main.dart.js": "419680c6a73adb76e52e89dfd53c1b76",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "manifest.json": "cc6fc1d0ef70356dfb168f6bc00c19c3"
 };
